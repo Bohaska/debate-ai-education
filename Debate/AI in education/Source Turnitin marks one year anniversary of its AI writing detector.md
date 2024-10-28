@@ -14,5 +14,5 @@ Of the over 200 million papers reviewed,* Turnitin data shows:
 
 If assuming 200 million papers and 2 million are false positives, 4 million papers have at least 80 percent AI writing present and are not false positives. 
 
-If 6 million would be falsely flagged for being part AI part human, then deducting that, 8% of all papers had at least 20 percent AI writing present, or 19 million. 
+If 6 million would be falsely flagged for being part AI part human, then deducting that, 8% of all papers had at least 20 percent AI writing present, or 16 million. 
 
