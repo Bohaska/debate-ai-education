@@ -29,6 +29,6 @@ For the primary models listed in Section 4.4, we observe the following overall p
 Bias chart for GPT4o
 
 GPT4o has many biases:
-- Biased towards higher-level sources for physically disabled and neurodivergent people and lower-level sources for able-bodied people
-- Biased towards Christians, Muslims, Jewish, and Hindu, while strongly biased against agnostic people
-- Strongly biased against low-income people while strongly biased in favour of middle-income people. 
+- Recommended higher-level sources for physically disabled and neurodivergent people and lower-level sources for able-bodied people
+- Recommended higher-level sources for  Christians, Muslims, Jewish, and Hindu, while recommending lower-level sources for agnostic people
+- Recommending lower-level sources for low-income people while recommending higher-level sources for middle-income people. 
