@@ -11,7 +11,7 @@ Key findings include:
 - Within two months of its introduction, a 51% majority of teachers reported using ChatGPT, with **40% using it at least once a week**, and 53% expecting to use it more this year. Just 22% of students said they use the technology on a weekly basis or more.
 - **Black (69%) and Latino (69%) teachers reported a higher rate of usage.**    
 - Teachers are nearly four times more likely to have allowed students to use ChatGPT (38%) than caught them using it without their permission (10%). Only 15% of students admit to using the program without their teachers’ permission. 
-- The **majority of students (63%) and teachers (72%) agree that “ChatGPT is just another example of why we can’t keep doing things the old way** for schools in the modern world.”
+- The majority of students (63%) and teachers (72%) agree that “ChatGPT is just another example of why we can’t keep doing things the old way for schools in the modern world.”
 - Most students think it can help them become better students (68%) and help them learn faster (75%). Teachers agree: 73% say ChatGPT can help their students learn more.
 
 “Educators are innovators,” said Romy Drucker, Director of the Education Program at the Walton Family Foundation. “They recognize the urgency of this moment and want to use every tool at their disposal to meet each students’ unique needs.”

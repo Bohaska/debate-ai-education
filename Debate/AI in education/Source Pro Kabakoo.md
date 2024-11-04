@@ -15,6 +15,10 @@ The long-term impact of Kabakoo’s training programs is evident. Our recent pos
 3. Learners in the treatment group saw a significant increase in their income. Eighteen months after training, they reached an average category of around 120,000 FCFA, compared with around 70,000 FCFA for the control group - **an increase of 71%**. This demonstrates a considerable positive economic impact.
 4. After 18 months, the NPS stood at 83, indicating that learners would strongly recommend the training to others for its impact.
 
+Among the learners of our 2020 batches, the incidence of a _growth mindset increases by 105%_ and _learners’ self-confidence increases by 47%_. Moreover, 90% of our learners consider that their personal and professional situation has improved as a result of the Kabakoo program.
+
+Our highdigenous model allows us to train youths from different educational backgrounds without diploma prerequisites. _22% of our learners didn’t finish high-school. Already 30% of our learners are women_, a significant share for tech-oriented education.
+
 ![[Source Pro Role of AI in Education 4.0#Kabakoo]]
 
 # Debate block
