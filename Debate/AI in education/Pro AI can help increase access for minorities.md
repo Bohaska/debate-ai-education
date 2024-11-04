@@ -4,5 +4,5 @@ According to [[Source Idk Offering LLMs in a Massive Coding Class Reduced Engage
 
 According to [[Source Pro AI Math Tutor in Ghana|Henkel et al. 2024]], giving students from Ghana access to an LLM to study math increased their scores more than the effect of a good teacher. The LLM tutor had an effect equivalent to moving the students up one grade level. 
 
-According to [[Source Pro Kabakoo]], a platform teaching digital skills to people in Africa with AI-powered tutoring, found that incomes increased 71% after the lessons and learners’ self-confidence increased by 47%. 22% of participating learners on Kabakoo didn’t finish high-school.
+According to [[Source Pro Kabakoo|Kabakoo]], a platform teaching digital skills to people in Africa with AI-powered tutoring, they found that incomes increased 71% after the lessons and learners’ self-confidence increased by 47%. 22% of participating learners on Kabakoo didn’t finish high-school.
 
