@@ -1,4 +1,4 @@
-[[Source Con Artificial intelligence on human loss indecision making, laziness and safety in education|Admad et al. write in Nature in 2023 that]] 68.9% of laziness in humans, 68.6% in personal privacy and security issues, and 27.7% in the loss of decision-making are due to the impact of artificial intelligence in Pakistani and Chinese society.
+[[Source Con Artificial intelligence on human loss indecision making, laziness and safety in education|Admad et al. wrote in Nature in 2023 that]] 68.9% of laziness in humans, 68.6% in personal privacy and security issues, and 27.7% in the loss of decision-making are due to the impact of artificial intelligence in Pakistani and Chinese society.
 
 According to [[Source Con Causes and consequences of generative AI usage among university students|Abbas et al. 2024]], a survey of the effects of ChatGPT usage on university students showed that ChatGPT usage was correlated with future procrastination, memory loss, memory impairment, declining academic performance and low GPAs.
 
@@ -9,5 +9,7 @@ According to [[Source Con Causes and consequences of generative AI usage among u
 [[Source Con Negative Impact of Generative AI on Scientific Learning Outcomes|Ju 2023]] found that in reading tasks, complete reliance on AI for writing tasks led to a 25.1% reduction in accuracy. In contrast, AI-assisted reading resulted in a 12% decline
 
 [[Source Idk Offering LLMs in a Massive Coding Class Reduced Engagement but Increased Adopters Exam Performances|Nie et al. 2024]] found that in an online coding class, only 44.1% of the students given the AI tutor took the final exam, compared to 48.5% of the students in the control group. 
+
+
 
 

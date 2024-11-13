@@ -1,0 +1,3 @@
+AI violates the privacy of its users. 
+
+[[Source Con LA Schools’ Chatbot Misused Student Data as Tech Co. Crumbled|According to the 74 million, an education news publication]], an AI app, Ed, that was used by the Los Angeles school district included students’ personally identifiable information in all chatbot prompts, which were shared with other third-party companies, and sent to other countries, exposing students’ information to potential cyberattacks and data breaches and subjecting it to foreign governments’ surveillance rules. An investigation found that the chatbot provided the student’s grades, progress toward graduation and other personal information, in violation of the school district’s data use agreement. 
